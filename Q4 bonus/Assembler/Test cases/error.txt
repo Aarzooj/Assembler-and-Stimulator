@@ -1,0 +1,5 @@
+mov R1 $12
+mov R2 $11
+swap R1 R9
+rev R1 $300
+hlt

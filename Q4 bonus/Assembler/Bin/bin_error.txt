@@ -1,0 +1,3 @@
+Syntax error: Invalid register used in line 3
+
+Syntax error: Invalid register used in line 4

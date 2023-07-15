@@ -1,0 +1,10 @@
+var x
+mov R1 $10
+mov R2 $15
+swap R1 R2
+rl R1 $2
+rr R2 $3
+rev R4 R1
+nand R3 R4 R2
+st R3 x
+hlt
